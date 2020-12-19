@@ -1,0 +1,13 @@
+#cím {
+    text-align: center;
+    text-decoration: yellow;
+}
+body {
+    background-color: lightyellow;
+}
+.termek{
+    text-align: center;
+}
+.össz {
+    padding: -5px;
+}
