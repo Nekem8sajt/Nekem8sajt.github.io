@@ -21,7 +21,8 @@ body {
 }
 #space {
     text-indent: -25px;
-    margin-bottom: 80px;
+    padding-bottom: 10pt;
+    margin-bottom: auto;
 }
 #bh1 {
     text-indent: -20px;
